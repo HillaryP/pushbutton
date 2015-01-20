@@ -9,7 +9,7 @@
         android:text="Push Me!"
         android:id="@+id/PushButton"
         android:background="#ff22ff78"
-        android:textColor="#ff800002"
+        android:textColor="#ffff0002"
         android:textSize="40dp"
         android:textStyle="italic"
         android:padding="5pt"
